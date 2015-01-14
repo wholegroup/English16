@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">English 16</string>
+
+	<string name="menu_new">New Game</string>
+	<string name="menu_sound">Toggle sound</string>
+	<string name="menu_sound_on">Sound On</string>
+	<string name="menu_sound_off">Sound Off</string>
+	<string name="menu_feedback">Feedback</string>
+	<string name="menu_about">About</string>
+
+	<string name="feedback_email">wholegroup@gmail.com</string>
+	<string name="feedback_subject">[feedback] English 16</string>
+	<string name="feedback_body" />
+	<string name="feedback_dialog">Send mail…</string>
+
+	<string name="about_header">About English 16</string>
+	<string name="about_text_1">English 16 a very nice puzzle invented in 1900 by the American Sam Loyd, also described as the greatest inventor of puzzles by Martin Gardner.</string>
+	<string name="about_text_2">The goal of that game is to transpose the positions of the gold and silver coins in the minimum possible number of moves. Touch the coin to move it into the free square. A coin can be moved to a close vacant square, or jumped over a close coin to the vacant square. No trasversal moves or jumps are allowed.</string>
+	<string name="about_text_3">Note: The shortest solution, which was discovered by the British mathematician H. E. Dudeney, is made of 46 moves.</string>
+
+	<string name="moves">Moves:</string>
+	<string name="solved">Solved</string>
+	<string name="gameover">Game Over</string>
+
+	<string name="game_instance">00523c04–59cc–496e–8a73–5f7eb56ed4f9</string>
+
+	<string name="score_header">Congratulations!</string>
+	<string name="score_text">You are the best! Please enter your name:</string>
+	<string name="score_best" formatted="false">Best: %s (%d moves)</string>
+
+	<string name="ok">OK</string>
+
+	<string name="preferences_id">bec89efd–b6ac–4d17–85e9–2c46a0c75310</string>
+</resources>

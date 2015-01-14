@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<!-- новая игра -->
+	<item android:id="@+id/menu_new"
+		android:title="@string/menu_new"
+		android:icon="@drawable/menu_new" />
+
+	<!-- вкл/откл звук -->
+	<item android:id="@+id/menu_sound"
+		android:title="@string/menu_sound"
+		android:icon="@drawable/menu_sound"/>
+
+	<!-- отзыв -->
+	<item android:id="@+id/menu_feedback"
+		android:title="@string/menu_feedback"
+		android:icon="@drawable/menu_feedback" />
+
+	<!-- информация о игре -->
+	<item android:id="@+id/menu_about"
+		android:title="@string/menu_about"
+		android:icon="@drawable/menu_about"/>
+</menu>

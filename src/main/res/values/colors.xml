@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- цвет текста -->
+	<color name="text">#80FFFFFF</color>
+
+	<!-- поле -->
+	<color name="field_border">#FFCC9966</color>
+
+	<!-- цвет монет -->
+	<color name="coin_gold_start">#ffffff99</color>
+	<color name="coin_gold_stop">#ff996600</color>
+	<color name="coin_gold_border">#90996600</color>
+
+	<color name="coin_silver_start">#ffcccccc</color>
+	<color name="coin_silver_stop">#ff666666</color>
+	<color name="coin_silver_border">#90666666</color>
+
+	<!-- цвет фона выделенной клетки -->
+	<color name="selected">#300050FF</color>
+	
+	<!-- полупрозрачный накладываемый на весь экран для эффекта затемнения -->
+	<color name="blackout">#90000000</color>
+
+	<!-- цвет надписи окончания игры -->
+	<color name="endgame_text">#FFFFFFFF</color>
+	<color name="endgame_text_border">#50000000</color>
+</resources>
